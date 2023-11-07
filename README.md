@@ -119,7 +119,8 @@ Execute the program
 ```
 
 ## OUTPUT
-![](./output.png)
+![output](https://github.com/c-sanjay/timetable/assets/147139405/32eb36d7-6191-49a2-a3e2-4b673d74c631)
+
 
 ## RESULT
 Hence,program is executed successfully
