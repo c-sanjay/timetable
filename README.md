@@ -14,7 +14,8 @@ Add your timetable
 Execute the program
 
 ## CODE
-![](./logo.png)
+![SANJAY C 23013498](https://github.com/c-sanjay/timetable/assets/147139405/4f74eea4-28fb-4110-b687-3cd247f5e311)
+.png)
 <tr>
         <th align="center" bgcolor="yellow">8-10</th>
         <td align="center" bgcolor="cyan" colspan="3">FREE SLOT</td>
