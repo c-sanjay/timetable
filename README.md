@@ -13,12 +13,17 @@ Add your timetable
 Execute the program
 
 ## CODE
-```py
+```html
 <title>SEC SLOT TIMETABLE</title>
+<BODY>
+	<IMG src="logo.png" 
+	height="100" width="600" align="center" border="2">
+</BODY>
+
 <table>
     <table border="4" width="600" cellspacing='4' cellpaddling='4'>
 
-<h2>SLOT TIMETABLE-C.SANJAY(23013498)</h2>
+<h1>SLOT TIMETABLE-SANJAY C (23013498)</h1>
 <tr>
     <th align="center" bgcolor="yellow">Day/Time</th>
     <th align="center" bgcolor="red">Monday</th>
@@ -28,6 +33,7 @@ Execute the program
     <th align="center" bgcolor="red">Friday</th>
 </tr>
 <tr>
+    
     <th align="center" bgcolor="yellow">8-10</th>
     <td align="center" bgcolor="cyan" colspan="3">FREE SLOT</td>
     <td align="center" bgcolor="cyan">PHY</td>
@@ -35,6 +41,7 @@ Execute the program
 </tr>
 
 <tr>
+    
     <th align="center" bgcolor="yellow">10-12</th>
     <td align="center" bgcolor="cyan">GER</td>
     <td align="center" bgcolor="cyan">PLA</td>
@@ -51,11 +58,13 @@ Execute the program
 </tr>
 
 <tr>
+    
     <th align="center" bgcolor="yellow">12-1</th>
     <td align="center" bgcolor="cyan" colspan="5">LUNCH</td>
 </tr>
 
 <tr>
+   
     <th align="center" bgcolor="yellow">1-3</th>
     <td align="center" bgcolor="cyan" colspan="2">FREE SLOT</td>
     <td align="center" bgcolor="cyan">PLA</td>
@@ -75,7 +84,7 @@ Execute the program
 <table border="4" width="600" cellspacing='4' cellpaddling='4'>
 
 <tr>
-    <th align="center">S.No</th>
+    <th align="center">S.NO</th>
     <th align="center">SUBJECT CODE</th> 
     <th align="center">SUBJECT NAME</th>
 </tr>
@@ -116,6 +125,7 @@ Execute the program
     <td align="center">soft skills(SS)</td>
 </tr>
 </table>
+
 ```
 
 ## OUTPUT
