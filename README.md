@@ -118,7 +118,8 @@ Execute the program
 ```
 
 ## OUTPUT
-![](./output.png)
+![]![output](https://github.com/c-sanjay/timetable/assets/147139405/4fa534c7-a743-4f74-afaf-1d7a9d207eda)
+
 
 
 ## RESULT
