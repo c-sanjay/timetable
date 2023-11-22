@@ -120,7 +120,5 @@ Execute the program
 ## OUTPUT
 ![](./output.png)
 
-
-
 ## RESULT
 Hence,program is executed successfully
