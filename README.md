@@ -118,7 +118,7 @@ Execute the program
 ```
 
 ## OUTPUT
-![](./output.png)
+![](./OUTPUT.png)
 
 ## RESULT
 Hence,program is executed successfully
